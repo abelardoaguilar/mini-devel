@@ -1,0 +1,119 @@
+biome1	biome2	biome3	length
+Air	Outdoor Air	NA	69520
+Aquatic	Freshwater	Creek	7479393
+Aquatic	Freshwater	Drinking water	39286
+Aquatic	Freshwater	Groundwater	55855720
+Aquatic	Freshwater	Ice	5204051
+Aquatic	Freshwater	Lake	80806536
+Aquatic	Freshwater	Lentic	67449488
+Aquatic	Freshwater	Lotic	42073
+Aquatic	Freshwater	NA	12465941
+Aquatic	Freshwater	Pond	4544365
+Aquatic	Freshwater	River	22860847
+Aquatic	Freshwater	Sediment	18343553
+Aquatic	Freshwater	Urban water	335627
+Aquatic	Freshwater	Wetlands	13466977
+Aquatic	Marine	Coastal	87159414
+Aquatic	Marine	Gulf	234316
+Aquatic	Marine	Hydrothermal vents	9289475
+Aquatic	Marine	Inlet	8938399
+Aquatic	Marine	Intertidal zone	28705231
+Aquatic	Marine	NA	224007836
+Aquatic	Marine	Neritic zone	3436005
+Aquatic	Marine	Oceanic	73384959
+Aquatic	Marine	Oil seeps	4269386
+Aquatic	Marine	Pelagic	10820674
+Aquatic	Marine	Salt marsh	36903
+Aquatic	Marine	Sediment	1808999
+Aquatic	Marine	Strait	183888
+Aquatic	Marine	Subtidal zone	83773
+Aquatic	Marine	Volcanic	1570666
+Aquatic	Marine	Wetlands	5452924
+Aquatic	NA	NA	150935
+Aquatic	Non-marine saline	Alkaline	290729
+Aquatic	Non-marine saline	Hypersaline	41156066
+Aquatic	Non-marine saline	Saline	28437886
+Aquatic	Sediment	NA	36877142
+Aquatic	Thermal springs	Hot (42-90C)	5285993
+Aquatic	Thermal springs	Sediment	890513
+Engineered	Bioreactor	Aerobic	92055
+Engineered	Bioreactor	Anaerobic	7411877
+Engineered	Bioreactor	NA	5450846
+Engineered	Bioremediation	Hydrocarbon	313028
+Engineered	Bioremediation	Tetrachloroethylene and derivatives	6652871
+Engineered	Bioremediation	Thiocyanate	4726732
+Engineered	Biotransformation	Microbial enhanced oil recovery	291528
+Engineered	Biotransformation	Microbial solubilization of coal	356498
+Engineered	Biotransformation	Mixed alcohol bioreactor	192589
+Engineered	Built environment	City	8402733
+Engineered	Built environment	Solar panel	223172
+Engineered	Built environment	Water treatment plant	667678
+Engineered	Food production	Fermented vegetables	2242
+Engineered	Lab enrichment	Defined media	4177544
+Engineered	Lab enrichment	NA	43457
+Engineered	Lab synthesis	NA	56436
+Engineered	Modeled	NA	2435
+Engineered	Modeled	Simulated communities (microbial mixture)	92428
+Engineered	Solid waste	Composting	1391668
+Engineered	Solid waste	Landfill	22132233
+Engineered	Wastewater	Activated Sludge	2610537
+Engineered	Wastewater	Anaerobic digestor	14894393
+Engineered	Wastewater	Industrial wastewater	3751332
+Engineered	Wastewater	NA	30188745
+Engineered	Wastewater	Nutrient removal	11560609
+Host-Associated	Algae	Brown Algae	136661
+Host-Associated	Algae	Green algae	4441141
+Host-Associated	Algae	Red algae	3116868
+Host-Associated	Fungi	Mycelium	1864164
+Host-Associated	Fungi	Wine fermentation	657162
+Host-Associated	Human	Airways	2204191
+Host-Associated	Human	Gut	1772559739
+Host-Associated	Human	Lung	37813
+Host-Associated	Human	NA	13164820
+Host-Associated	Human	Nasal cavity	201672
+Host-Associated	Human	Nasopharyngeal	452137
+Host-Associated	Human	Oral	183314922
+Host-Associated	Human	Skin	25522381
+Host-Associated	Human	Vagina	795296
+Host-Associated	Invertebrates	Ant dump	385805
+Host-Associated	Invertebrates	Coral	12433
+Host-Associated	Invertebrates	Digestive system	6249915
+Host-Associated	Invertebrates	Integument	1115174
+Host-Associated	Invertebrates	Invertebrates	197214
+Host-Associated	Invertebrates	NA	907309
+Host-Associated	Invertebrates	Symbiotic fungal gardens and galleries	182612
+Host-Associated	Mammals	Digestive system	149016337
+Host-Associated	Mammals	Gastrointestinal tract	268606
+Host-Associated	Mammals	Mouse	3355840
+Host-Associated	Microbial	Dinoflagellates	1478950
+Host-Associated	Microbial	NA	6393104
+Host-Associated	Plants	Endosphere	120455
+Host-Associated	Plants	Leaf	45986
+Host-Associated	Plants	Peat moss	2650882
+Host-Associated	Plants	Phylloplane	5414281
+Host-Associated	Plants	Phyllosphere	8552797
+Host-Associated	Plants	Rhizoplane	31403359
+Host-Associated	Plants	Rhizosphere	53812444
+Host-Associated	Plants	Roots	464051
+Host-Associated	Plants	Switchgrass	181578
+Host-Associated	Vertebrates	Digestive system	546729
+Host-Associated	Vertebrates	Skin	586645
+NA	NA	NA	74879914
+Terrestrial	Cave	NA	3275057
+Terrestrial	Deep subsurface	Aquifer	850032
+Terrestrial	Deep subsurface	Clay	294300
+Terrestrial	Deep subsurface	Fracking water	144841
+Terrestrial	Deep subsurface	NA	8681993
+Terrestrial	Geologic	Mine	265132
+Terrestrial	NA	NA	38006
+Terrestrial	Oil reservoir	NA	21157
+Terrestrial	Peat	NA	36597253
+Terrestrial	Plant litter	NA	13377434
+Terrestrial	Rock-dwelling (endoliths)	NA	88102
+Terrestrial	Soil	Crop	879394
+Terrestrial	Soil	Hot (42-90C)	274661
+Terrestrial	Soil	Loam	47916198
+Terrestrial	Soil	NA	147964261
+Terrestrial	Soil	Sand	12805176
+Terrestrial	Soil	Wetlands	4898147
+Terrestrial	Volcanic	Fumaroles	10054

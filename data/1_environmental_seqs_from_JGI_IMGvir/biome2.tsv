@@ -1,0 +1,37 @@
+biome1	biome2	length
+Air	Outdoor Air	69520
+Aquatic	Freshwater	288893857
+Aquatic	Marine	459382848
+Aquatic	NA	150935
+Aquatic	Non-marine saline	69884681
+Aquatic	Sediment	36877142
+Aquatic	Thermal springs	6176506
+Engineered	Bioreactor	12954778
+Engineered	Bioremediation	11692631
+Engineered	Biotransformation	840615
+Engineered	Built environment	9293583
+Engineered	Food production	2242
+Engineered	Lab enrichment	4221001
+Engineered	Lab synthesis	56436
+Engineered	Modeled	94863
+Engineered	Solid waste	23523901
+Engineered	Wastewater	63005616
+Host-Associated	Algae	7694670
+Host-Associated	Fungi	2521326
+Host-Associated	Human	1998252971
+Host-Associated	Invertebrates	9050462
+Host-Associated	Mammals	152640783
+Host-Associated	Microbial	7872054
+Host-Associated	Plants	102645833
+Host-Associated	Vertebrates	1133374
+NA	NA	74879914
+Terrestrial	Cave	3275057
+Terrestrial	Deep subsurface	9971166
+Terrestrial	Geologic	265132
+Terrestrial	NA	38006
+Terrestrial	Oil reservoir	21157
+Terrestrial	Peat	36597253
+Terrestrial	Plant litter	13377434
+Terrestrial	Rock-dwelling (endoliths)	88102
+Terrestrial	Soil	214737837
+Terrestrial	Volcanic	10054

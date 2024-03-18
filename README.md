@@ -1,16 +1,16 @@
 # mini-devel
-Development repo for the miniphages project
 
 ```mermaid
 flowchart TD
-    A[notation] --- B(a folder)
-    A --- C[[script]]
-    A --- D[(database)]
+    subgraph ide1 [notation]
+    B(folder)
+    C[[script]]
+    D[(database)]
+    end
 
 
 ```
-
-
+Development repo for the miniphages project
 
 ```mermaid
 flowchart TD
@@ -48,7 +48,4 @@ flowchart TD
     biome2 --- vibrant_all[(VIBRANT_biome ...)]
     biome3 --- vibrant_all[(VIBRANT_biome ...)]
     end
-
-
-
 ```

@@ -1,5 +1,6 @@
 old_project/
 results/
+data/
 
 .DS_Store
 .Rproj.user

@@ -101,6 +101,14 @@ flowchart TD
     cluster41798 -.-> |hmmbuild|hmm
     end
     
+    subgraph ide9 [All proteins detected as MCP VIBRANT + Zayed efam41798]
+    2_global_VIBRANT_output23 --- 4_All_MCPs[4_All_MPCs]:::results
+    hmm -.->  4_All_MCPs
+    multifilter -.-> 4_All_MCPs
+    4_All_MCPs ---> 5_CLANS_global_MCP[5_CLANS_global_MCP]:::results
+    end
+
+
     
 
 ```
